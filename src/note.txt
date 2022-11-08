@@ -1,0 +1,4 @@
+App.Js line
+we use async await because async await returns promise it saves a line of code
+which we do using .then(),
+

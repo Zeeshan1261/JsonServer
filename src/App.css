@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.updbtn {
+  font-size: 25px;
+  background-color: grey;
+  border-radius: 10px;
+  width: 200px;
+  cursor: pointer;
+}
+.updbtn:active {
+  background-color: green;
+}
+.updbtn:hover {
+  background-color: green;
+}
+
+.delbtn {
+  font-size: 25px;
+  background-color: grey;
+  border-radius: 10px;
+  width: 200px;
+  cursor: pointer;
+}
+.delbtn:active {
+  background-color: green;
+}
+.delbtn:hover {
+  background-color: red;
+}
+.input {
+  font-size: 25px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.add {
+  margin-top: 10px;
+  width: 200px;
+  font-size: 25px;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: orange;
+}
+.add:hover{
+  background-color:green;
+}
